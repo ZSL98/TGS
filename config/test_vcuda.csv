@@ -1,0 +1,2 @@
+submit_time,model_name,batch_size,iterations,gpu_requests,priority,thread_percentage,image_name
+0,resnet50_v2,-1,-1,1,high,50,bingyangwu2000/tf_torch
